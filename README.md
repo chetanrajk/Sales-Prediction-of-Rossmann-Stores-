@@ -6,6 +6,6 @@ Also I discussed impacts of particular methods, strategies or features on the re
 
 For this project I have used following regression strategies:
 
-  Linear Regression
-  Decision Tree Regression 
-  Random Forest Regression
+  -Linear Regression
+  -Decision Tree Regression
+  -Random Forest Regression
